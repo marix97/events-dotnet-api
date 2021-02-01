@@ -1,4 +1,4 @@
-### Web API for events-guests relationship.
+# Web API for events-guests relationship.
 ## Targeted Framework .NET Core 3.1
 
 The API endpoints are accessible only through the API key that is in appsettings file.

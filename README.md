@@ -1,4 +1,5 @@
-Web API for events-guests relationship.
+### Web API for events-guests relationship.
+## Targeted Framework .NET Core 3.1
 
 The API endpoints are accessible only through the API key that is in appsettings file.
 Upon creation of an event, an email is sent to the guests that are "subscribed" to that event with a calendar file attached to the email that describes the event.
